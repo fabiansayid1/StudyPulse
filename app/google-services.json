@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "556529759591",
+    "project_id": "studypulse-c6770",
+    "storage_bucket": "studypulse-c6770.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556529759591:android:9c608c569e1f9d09792bc2",
+        "android_client_info": {
+          "package_name": "com.example.basededatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556529759591-tjbj8kom65f12i6putch8srapsol7hh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basededatos",
+            "certificate_hash": "167e785e2031411f976d0c1909e58dedf80f2c57"
+          }
+        },
+        {
+          "client_id": "556529759591-s00hmdpidku94mcb2d4quu2etk5tm4tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJHyBx9zpTmAytETlWPJDsAZ3ze76ymKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556529759591-s00hmdpidku94mcb2d4quu2etk5tm4tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
